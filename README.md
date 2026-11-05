@@ -13,6 +13,7 @@ Small, honest tools for online sellers, freelancers and makers. Offline-first, n
 - Gridfinity & 3D-print models (Cults3D): https://cults3d.com/en/users/dodiabak/3d-models
 - Data Actors for developers and AI agents (Apify Store): https://apify.com/dodiabak
 - Large Print Christmas Puzzle Book for Seniors (Amazon): https://www.amazon.com/dp/B0HNVNK18S
+- Cozy Village Mysteries, a cozy logic-puzzle book (Amazon): https://www.amazon.com/dp/B0HPXQW7QL
 
 ## Hire me
-Fixed-price, one-time jobs: web scraping and data extraction, lead lists, spreadsheet/Excel automation, Arabic + English landing pages, Node.js tools. Contact via the shops above.
+Fixed-price, one-time jobs: web scraping and data extraction, lead lists, spreadsheet/Excel automation, Arabic + English landing pages, Node.js tools. See prices and a free sample offer (AR/EN): https://dohmnsama1-sketch.github.io/services/
